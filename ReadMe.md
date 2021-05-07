@@ -12,4 +12,4 @@ In the client terminal run
 
 This will start up your server and the app in the browser.
 
-There is a live version available to look at https://hazelbags-chat-app.netlify.com/
+There is a live version available to look at [ChatApp](https://chat.my-web.me/)
